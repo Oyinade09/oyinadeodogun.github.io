@@ -1,0 +1,82 @@
+.big{
+    width: 820px;
+    height: 190px;
+    padding: 15px;
+}
+#first{
+    float: left;
+    width: 250px;
+    height: 160px;
+    border: 1px solid black;
+    background-color: grey;
+}
+#second{
+    float: left;
+    width: 250px;
+    height: 160px;
+    border: 1px solid black;
+    background-color: grey;
+    margin-left: 20px;
+}
+#third{
+    float: left;
+    width: 250px;
+    height: 160px;
+    border: 1px solid black;
+    background-color: grey;
+    margin-left: 20px;
+    margin-right: 0;
+}
+body{
+    text-align: center;
+}
+#chicken{
+    background-color: palevioletred;
+    border: 1px solid black;
+    border-top: 0;
+    border-right: 0;
+    position: relative;
+    bottom: 0;
+    left: 168px;
+    width: 80px;
+    height: 15px;
+    font-size: 25% larger;
+    margin-top: 0;
+}
+#beef{
+    background-color: brown;
+    border: 1px solid black;
+    border-top: 0;
+    border-right: 0;
+    position: relative;
+    bottom: 0;
+    left: 168px;
+    width: 80px;
+    height: 15px;
+    font-size: 25% larger;
+    margin-top: 0;
+}
+#sushi{
+    background-color: yellow;
+    border: 1px solid black;
+    border-top: 0;
+    border-right: 0;
+    position: relative;
+    bottom: 0;
+    left: 168px;
+    width: 80px;
+    height: 15px;
+    font-size: 25% larger;
+    margin-top: 0;
+}
+h1{
+    font-size: 75% larger;
+    text-align: center;
+   
+}
+@media (min-width: 992px) {
+    
+}
+* {
+    box-sizing: border-box;
+}
